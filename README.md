@@ -2,4 +2,5 @@
 
 An Opensource php filemanager just single file can read your directory. 
 
-[url="https://www.files.gallery/"]
+# Source 
+https://www.files.gallery/
